@@ -2,7 +2,7 @@
 
 # Desarrollador BackEnd y FullStack
 
-Actualmente soy BackEnd Developer en NestJS para Falabella tecnología corporativa, con más de 3 años de experiencia en desarrollo Nodejs y sus frameworks, con conocimiento FullStack MERN.
+Actualmente soy BackEnd Developer para Falabella tecnología corporativa, con más de 3 años de experiencia en desarrollo Nodejs y sus frameworks, con conocimiento FullStack MERN.
 
 ## Experiencia laboral
 
