@@ -9,43 +9,6 @@ Actualmente soy BackEnd Developer, con más de 3 años de experiencia en desarro
 - Participación en startups y competencias del tipo hackaton, entre esto participe como BackEnd para Tyne (una startups de agenda de restaurantes) o back y front para Nomadis (startup de reservas y gestión para panoramas outdoor).
 - Tercer lugar en la hackaton de Ripley 2021 y premio Microsoft en la Hackaton de AChS 2021.
 
-## Tecnologías
-
-### BackEnd
-
-- NestJS typeScript 
-- Express NodeJS
-- Django (python)
-- FastAPI (python)
-- .NET (C#)
-- Codeigniter (PHP)
-- Dockers
-- GCP(pub/sub, Kubernetes)
-- AWS(S3, E2)
-
-### FrontEnd
-
-- Css
-- JavaScript 
-- Bootstrap
-- React
-- NextJS
-
-### DB
-
-- MySQL
-- Oracle PL/SQL
-- Microsoft SQLServer
-- SQLite
-- FireStore
-- FireBase
-- Mongo DB
-
-### Móviles 
-
-- Flutter
-- IONIC
-
 Trabajo muy bien con equipos multidisciplinarios y tengo muchas ganas de aprender y desarrollar mis habilidades.
 
 <!--
